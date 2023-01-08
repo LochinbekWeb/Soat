@@ -1,0 +1,16 @@
+.title {
+    margin-left: 500px;
+    margin-bottom: 30px;
+    color: paleturquoise;
+}
+
+.clock {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: #26ff00;
+    font-size: 60px;
+    font-family: Orbitron;
+    letter-spacing: 7px;
+}
